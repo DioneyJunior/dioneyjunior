@@ -1,7 +1,4 @@
 ### Olá, eu sou o Dioney Junior 👋
- 
-- Atualmente trabalho com desenvolvimento Web e estou procurando estágio.
-- Estou aprendendo Vue pretendo aprender Java em breve.
 
 <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=DioneyJunior&show_icons=true&theme=radical"/> </a>
 
